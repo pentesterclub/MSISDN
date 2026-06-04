@@ -1,0 +1,11 @@
+# MSISDN Decoder Tool — runtime dependencies
+# Built by pentesterclub (https://pentesterclub.com)
+#
+# Install with:
+#   pip install -r requirements.txt
+
+# Phone number parsing, geocoding, carrier detection
+phonenumbers>=8.13.0
+
+# Pretty terminal output (tables, panels, colors)
+rich>=13.0.0
